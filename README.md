@@ -315,6 +315,3 @@ http://<WEB_PUBLIC_IP>
 ```
 
 ---
-
----
-rm Project
